@@ -1,0 +1,9 @@
+[submodule "depends/rapidsnark"]
+	path = depends/rapidsnark
+	url = https://github.com/iden3/rapidsnark.git
+[submodule "depends/circom"]
+	path = depends/circom
+	url = https://github.com/iden3/circom.git
+[submodule "depends/poseidon"]
+	path = depends/poseidon
+	url = https://github.com/bitwise343/poseidon.git
